@@ -1,0 +1,604 @@
+{
+    "treinos": [
+      {
+        "objetivo": "Hipertrofia Muscular (Musculação)",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Supino reto", "series": 4, "repeticoes": 8, "Image": "https://treinomestre.com.br/wp-content/uploads/2017/08/supino-fechado-cp.jpg.webp"},
+          { "nome": "Agachamento", "series": 4, "repeticoes": 8, "Image": "https://blog.madrugaosuplementos.com.br/wp-content/uploads/2019/02/agachamento_livre_madrugao_suplementos.png"},
+          { "nome": "Levantamento terra", "series": 3, "repeticoes": 6 },
+          { "nome": "Pulldown", "series": 3, "repeticoes": 10 },
+          { "nome": "Leg press", "series": 4, "repeticoes": 10 },
+          { "nome": "Rosca direta", "series": 3, "repeticoes": 12 }
+        ]
+      },
+      {
+        "objetivo": "Hipertrofia Muscular (Musculação)",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Desenvolvimento militar", "series": 3, "repeticoes": 10 },
+          { "nome": "Barra fixa", "series": 4, "repeticoes": 6 },
+          { "nome": "Rosca martelo", "series": 3, "repeticoes": 12 },
+          { "nome": "Agachamento frontal", "series": 4, "repeticoes": 8, "Image": "https://blog.madrugaosuplementos.com.br/wp-content/uploads/2019/02/agachamento_livre_madrugao_suplementos.png" },
+          { "nome": "Cadeira extensora", "series": 4, "repeticoes": 10 },
+          { "nome": "Tríceps corda", "series": 3, "repeticoes": 12 }
+        ]
+      },
+      {
+        "objetivo": "Hipertrofia Muscular (Musculação)",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Puxada frontal", "series": 3, "repeticoes": 10 },
+          { "nome": "Remada curvada", "series": 4, "repeticoes": 10 },
+          { "nome": "Stiff", "series": 4, "repeticoes": 8 },
+          { "nome": "Desenvolvimento lateral", "series": 3, "repeticoes": 12 },
+          { "nome": "Prensa de pernas", "series": 4, "repeticoes": 10 },
+          { "nome": "Abdominais", "series": 3, "repeticoes": 15 }
+        ]
+      },
+      {
+        "objetivo": "Hipertrofia Muscular (Musculação)",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Supino inclinado", "series": 4, "repeticoes": 8, "Image": "https://treinomestre.com.br/wp-content/uploads/2017/08/supino-fechado-cp.jpg.webp"},
+          { "nome": "Agachamento frontal", "series": 4, "repeticoes": 8, "Image": "https://blog.madrugaosuplementos.com.br/wp-content/uploads/2019/02/agachamento_livre_madrugao_suplementos.png" },
+          { "nome": "Levantamento terra", "series": 3, "repeticoes": 6 },
+          { "nome": "Pulldown", "series": 3, "repeticoes": 10 },
+          { "nome": "Cadeira extensora", "series": 4, "repeticoes": 10 },
+          { "nome": "Rosca direta", "series": 3, "repeticoes": 12 }
+        ]
+      },
+      {
+        "objetivo": "Hipertrofia Muscular (Musculação)",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Desenvolvimento lateral", "series": 3, "repeticoes": 12 },
+          { "nome": "Barra fixa", "series": 4, "repeticoes": 6 },
+          { "nome": "Rosca martelo", "series": 3, "repeticoes": 12 },
+          { "nome": "Agachamento sumô", "series": 4, "repeticoes": 8, "Image": "https://static.wixstatic.com/media/2edbed_45449873ab3d413a878b35efb226b3b5~mv2.webp" },
+          { "nome": "Leg press", "series": 4, "repeticoes": 10 },
+          { "nome": "Tríceps corda", "series": 3, "repeticoes": 12 }
+        ]
+      },
+      {
+        "objetivo": "Perda de Peso e Queima de Gordura",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Supino reto", "series": 3, "repeticoes": 10, "Image": "https://treinomestre.com.br/wp-content/uploads/2017/08/supino-fechado-cp.jpg.webp" },
+          { "nome": "Agachamento", "series": 3, "repeticoes": 10, "Image": "https://blog.madrugaosuplementos.com.br/wp-content/uploads/2019/02/agachamento_livre_madrugao_suplementos.png" },
+          { "nome": "Puxada frontal", "series": 3, "repeticoes": 10 },
+          { "nome": "Stiff", "series": 3, "repeticoes": 12 },
+          { "nome": "Desenvolvimento lateral", "series": 3, "repeticoes": 12 },
+          { "nome": "Abdominais", "series": 3, "repeticoes": 15 }
+        ]
+      },
+      {
+        "objetivo": "Perda de Peso e Queima de Gordura",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Levantamento terra", "series": 3, "repeticoes": 8 },
+          { "nome": "Pulldown", "series": 3, "repeticoes": 10 },
+          { "nome": "Prensa de pernas", "series": 3, "repeticoes": 12 },
+          { "nome": "Barra fixa", "series": 3, "repeticoes": 6 },
+          { "nome": "Agachamento sumô", "series": 3, "repeticoes": 10, "Image": "https://static.wixstatic.com/media/2edbed_45449873ab3d413a878b35efb226b3b5~mv2.webp" },
+          { "nome": "Rosca martelo", "series": 3, "repeticoes": 12 }
+        ]
+      },
+      {
+        "objetivo": "Perda de Peso e Queima de Gordura",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Agachamento frontal", "series": 3, "repeticoes": 8, "Image": "https://blog.madrugaosuplementos.com.br/wp-content/uploads/2019/02/agachamento_livre_madrugao_suplementos.png" },
+          { "nome": "Desenvolvimento militar", "series": 3, "repeticoes": 10 },
+          { "nome": "Remada curvada", "series": 3, "repeticoes": 10 },
+          { "nome": "Leg press", "series": 3, "repeticoes": 12 },
+          { "nome": "Cadeira extensora", "series": 3, "repeticoes": 12 },
+          { "nome": "Tríceps corda", "series": 3, "repeticoes": 12 }
+        ]
+      },
+      {
+        "objetivo": "Perda de Peso e Queima de Gordura",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Supino inclinado", "series": 3, "repeticoes": 10, "Image": "https://treinomestre.com.br/wp-content/uploads/2017/08/supino-fechado-cp.jpg.webp" },
+          { "nome": "Agachamento frontal", "series": 3, "repeticoes": 10, "Image": "https://blog.madrugaosuplementos.com.br/wp-content/uploads/2019/02/agachamento_livre_madrugao_suplementos.png" },
+          { "nome": "Puxada frontal", "series": 3, "repeticoes": 10 },
+          { "nome": "Stiff", "series": 3, "repeticoes": 12 },
+          { "nome": "Desenvolvimento lateral", "series": 3, "repeticoes": 12 },
+          { "nome": "Abdominais", "series": 3, "repeticoes": 15 }
+        ]
+      },
+      {
+        "objetivo": "Perda de Peso e Queima de Gordura",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Levantamento terra", "series": 3, "repeticoes": 8 },
+          { "nome": "Pulldown", "series": 3, "repeticoes": 10 },
+          { "nome": "Agachamento sumô", "series": 3, "repeticoes": 12, "Image": "https://static.wixstatic.com/media/2edbed_45449873ab3d413a878b35efb226b3b5~mv2.webp" },
+          { "nome": "Barra fixa", "series": 3, "repeticoes": 6 },
+          { "nome": "Prensa de pernas", "series": 3, "repeticoes": 10 },
+          { "nome": "Rosca martelo", "series": 3, "repeticoes": 12 }
+        ]
+      },
+      {
+        "objetivo": "Força",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Supino reto", "series": 5, "repeticoes": 5, "Image": "https://treinomestre.com.br/wp-content/uploads/2017/08/supino-fechado-cp.jpg.webp" },
+          { "nome": "Desenvolvimento militar", "series": 4, "repeticoes": 6 },
+          { "nome": "Tríceps corda", "series": 3, "repeticoes": 8 },
+          { "nome": "Agachamento", "series": 5, "repeticoes": 5, "Image": "https://blog.madrugaosuplementos.com.br/wp-content/uploads/2019/02/agachamento_livre_madrugao_suplementos.png"},
+          { "nome": "Stiff", "series": 4, "repeticoes": 6 },
+          { "nome": "Abdominais ponderados", "series": 3, "repeticoes": 10 }
+        ]
+      },
+      {
+        "objetivo": "Força",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Levantamento terra", "series": 5, "repeticoes": 5 },
+          { "nome": "Barra fixa", "series": 4, "repeticoes": 6 },
+          { "nome": "Rosca direta", "series": 3, "repeticoes": 8 },
+          { "nome": "Puxada frontal", "series": 5, "repeticoes": 5 },
+          { "nome": "Desenvolvimento lateral", "series": 4, "repeticoes": 6 },
+          { "nome": "Prensa de pernas", "series": 3, "repeticoes": 8 }
+        ]
+      },
+      {
+        "objetivo": "Força",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Supino inclinado", "series": 5, "repeticoes": 5, "Image": "https://treinomestre.com.br/wp-content/uploads/2017/08/supino-fechado-cp.jpg.webp" },
+          { "nome": "Agachamento frontal", "series": 4, "repeticoes": 6, "Image": "https://blog.madrugaosuplementos.com.br/wp-content/uploads/2019/02/agachamento_livre_madrugao_suplementos.png" },
+          { "nome": "Levantamento terra", "series": 3, "repeticoes": 8 },
+          { "nome": "Pulldown", "series": 5, "repeticoes": 5 },
+          { "nome": "Cadeira extensora", "series": 4, "repeticoes": 6 },
+          { "nome": "Rosca direta", "series": 3, "repeticoes": 8 }
+        ]
+      },
+      {
+        "objetivo": "Força",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Supino inclinado", "series": 5, "repeticoes": 5, "Image": "https://treinomestre.com.br/wp-content/uploads/2017/08/supino-fechado-cp.jpg.webp" },
+          { "nome": "Desenvolvimento lateral", "series": 4, "repeticoes": 6 },
+          { "nome": "Tríceps corda", "series": 3, "repeticoes": 8 },
+          { "nome": "Levantamento terra", "series": 5, "repeticoes": 5 },
+          { "nome": "Agachamento frontal", "series": 4, "repeticoes": 6, "Image": "https://blog.madrugaosuplementos.com.br/wp-content/uploads/2019/02/agachamento_livre_madrugao_suplementos.png" },
+          { "nome": "Barra fixa", "series": 3, "repeticoes": 8 }
+        ]
+      },
+      {
+        "objetivo": "Força",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Pulldown", "series": 5, "repeticoes": 5 },
+          { "nome": "Agachamento sumô", "series": 4, "repeticoes": 6, "Image": "https://static.wixstatic.com/media/2edbed_45449873ab3d413a878b35efb226b3b5~mv2.webp" },
+          { "nome": "Rosca martelo", "series": 3, "repeticoes": 8 },
+          { "nome": "Remada curvada", "series": 5, "repeticoes": 5 },
+          { "nome": "Leg press", "series": 4, "repeticoes": 6 },
+          { "nome": "Tríceps corda", "series": 3, "repeticoes": 8 }
+        ]
+      },
+      {
+        "objetivo": "Condicionamento Cardiovascular",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Corrida leve", "tempo": "15 minutos" },
+          { "nome": "Saltos de corda", "tempo": "10 minutos" },
+          { "nome": "Ciclismo estacionário", "tempo": "20 minutos" },
+          { "nome": "Burpees", "tempo": "5 minutos" },
+          { "nome": "Natação", "tempo": "15 minutos" },
+          { "nome": "Step aeróbico", "tempo": "10 minutos" }
+        ]
+      },
+      {
+        "objetivo": "Condicionamento Cardiovascular",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Corrida intervalada", "tempo": "20 minutos" },
+          { "nome": "Pular corda", "tempo": "15 minutos" },
+          { "nome": "Elíptico", "tempo": "25 minutos" },
+          { "nome": "Agachamento com salto", "tempo": "5 minutos", "Image": "https://cdn.atletis.com.br/atletis-website/base/73e/101/fa8/agachamento-com-salto.png" },
+          { "nome": "Caminhada rápida", "tempo": "20 minutos" },
+          { "nome": "Dança aeróbica", "tempo": "15 minutos" }
+        ]
+      },
+      {
+        "objetivo": "Condicionamento Cardiovascular",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Corrida leve", "tempo": "15 minutos" },
+          { "nome": "Natação", "tempo": "15 minutos" },
+          { "nome": "Caminhada rápida", "tempo": "20 minutos" },
+          { "nome": "Burpees", "tempo": "5 minutos" },
+          { "nome": "Jumping jacks", "tempo": "10 minutos" },
+          { "nome": "Zumba", "tempo": "15 minutos" }
+        ]
+      },
+      {
+        "objetivo": "Condicionamento Cardiovascular",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Corrida leve", "tempo": "15 minutos" },
+          { "nome": "Caminhada rápida", "tempo": "20 minutos" },
+          { "nome": "Ciclismo outdoor", "tempo": "30 minutos" },
+          { "nome": "Jumping jacks", "tempo": "10 minutos" },
+          { "nome": "Natação", "tempo": "20 minutos" },
+          { "nome": "Zumba", "tempo": "15 minutos" }
+        ]
+      },
+      {
+        "objetivo": "Condicionamento Cardiovascular",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Corrida intervalada", "tempo": "20 minutos" },
+          { "nome": "Saltos de corda", "tempo": "15 minutos" },
+          { "nome": "Bicicleta ao ar livre", "tempo": "30 minutos" },
+          { "nome": "Burpees", "tempo": "10 minutos" },
+          { "nome": "Dança aeróbica", "tempo": "20 minutos" },
+          { "nome": "Natação", "tempo": "15 minutos" }
+        ]
+      },
+      {
+        "objetivo": "Flexibilidade e Mobilidade",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Alongamento de isquiotibiais", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Rotação de ombros", "repeticoes": 3, "duracao": "15 segundos" },
+          { "nome": "Flexão de quadril", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Giro de tronco", "repeticoes": 3, "duracao": "15 segundos" },
+          { "nome": "Alongamento de panturrilhas", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Flexão dorsal do pé", "repeticoes": 3, "duracao": "15 segundos" }
+        ]
+      },
+      {
+        "objetivo": "Flexibilidade e Mobilidade",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Alongamento de quadríceps", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Rotação de pescoço", "repeticoes": 3, "duracao": "15 segundos" },
+          { "nome": "Inclinação lateral", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Torção da coluna", "repeticoes": 3, "duracao": "15 segundos" },
+          { "nome": "Alongamento de ombros", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Flexão plantar do pé", "repeticoes": 3, "duracao": "15 segundos" }
+        ]
+      },
+      {
+        "objetivo": "Flexibilidade e Mobilidade",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Alongamento de isquiotibiais", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Rotação de ombros", "repeticoes": 3, "duracao": "15 segundos" },
+          { "nome": "Flexão de quadril", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Giro de tronco", "repeticoes": 3, "duracao": "15 segundos" },
+          { "nome": "Alongamento de panturrilhas", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Flexão dorsal do pé", "repeticoes": 3, "duracao": "15 segundos" }
+        ]
+      },
+      {
+        "objetivo": "Flexibilidade e Mobilidade",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Alongamento de isquiotibiais", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Rotação de ombros", "repeticoes": 3, "duracao": "15 segundos" },
+          { "nome": "Flexão de quadril", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Giro de tronco", "repeticoes": 3, "duracao": "15 segundos" },
+          { "nome": "Alongamento de panturrilhas", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Flexão dorsal do pé", "repeticoes": 3, "duracao": "15 segundos" }
+        ]
+      },
+      {
+        "objetivo": "Flexibilidade e Mobilidade",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Alongamento de quadríceps", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Rotação de pescoço", "repeticoes": 3, "duracao": "15 segundos" },
+          { "nome": "Inclinação lateral", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Torção da coluna", "repeticoes": 3, "duracao": "15 segundos" },
+          { "nome": "Alongamento de ombros", "repeticoes": 3, "duracao": "20 segundos" },
+          { "nome": "Flexão plantar do pé", "repeticoes": 3, "duracao": "15 segundos" }
+        ]
+      },
+      {
+        "objetivo": "Treinamento Funcional",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Agachamento com salto", "repeticoes": 3, "series": 4, "Image": "https://cdn.atletis.com.br/atletis-website/base/73e/101/fa8/agachamento-com-salto.png" },
+          { "nome": "Prancha lateral", "repeticoes": 3, "series": 3 },
+          { "nome": "Levantamento de kettlebell", "repeticoes": 3, "series": 4 },
+          { "nome": "Flexão de braço alternada", "repeticoes": 3, "series": 3 },
+          { "nome": "Burpees", "repeticoes": 3, "series": 3 },
+          { "nome": "Mountain climbers", "repeticoes": 3, "series": 4 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento Funcional",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Agachamento com arremesso de bola", "repeticoes": 3, "series": 4, "Image":"https://static.vecteezy.com/ti/vetor-gratis/p3/8573002-medicina-arremesso-exercicio-plano-ilustracao-isolado-em-fundo-branco-treino-conjunto-de-caracteres-vetor.jpg" },
+          { "nome": "Prancha com rotação", "repeticoes": 3, "series": 3 },
+          { "nome": "Arrasto com corda", "repeticoes": 3, "series": 4 },
+          { "nome": "Flexão de braço com toque no ombro", "repeticoes": 3, "series": 3 },
+          { "nome": "Pular obstáculos", "repeticoes": 3, "series": 3 },
+          { "nome": "Saltos laterais", "repeticoes": 3, "series": 4 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento Funcional",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Agachamento com medicine ball", "repeticoes": 3, "series": 4, "Image":"https://static.vecteezy.com/ti/vetor-gratis/p3/8573002-medicina-arremesso-exercicio-plano-ilustracao-isolado-em-fundo-branco-treino-conjunto-de-caracteres-vetor.jpg" },
+          { "nome": "Prancha dinâmica", "repeticoes": 3, "series": 3 },
+          { "nome": "Escalada em corda", "repeticoes": 3, "series": 4 },
+          { "nome": "Flexão de braço inclinada", "repeticoes": 3, "series": 3 },
+          { "nome": "Salto vertical", "repeticoes": 3, "series": 3 },
+          { "nome": "Avanço com rotação do tronco", "repeticoes": 3, "series": 4 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento Funcional",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Agachamento com salto", "repeticoes": 3, "series": 4, "Image":"https://cdn.atletis.com.br/atletis-website/base/73e/101/fa8/agachamento-com-salto.png" },
+          { "nome": "Prancha lateral", "repeticoes": 3, "series": 3 },
+          { "nome": "Levantamento de kettlebell", "repeticoes": 3, "series": 4 },
+          { "nome": "Flexão de braço alternada", "repeticoes": 3, "series": 3 },
+          { "nome": "Burpees", "repeticoes": 3, "series": 3 },
+          { "nome": "Mountain climbers", "repeticoes": 3, "series": 4 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento Funcional",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Agachamento com arremesso de bola", "repeticoes": 3, "series": 4, "Image":"https://cdn.atletis.com.br/atletis-website/base/73e/101/fa8/agachamento-com-salto.png" },
+          { "nome": "Prancha com rotação", "repeticoes": 3, "series": 3 },
+          { "nome": "Arrasto com corda", "repeticoes": 3, "series": 4 },
+          { "nome": "Flexão de braço com toque no ombro", "repeticoes": 3, "series": 3 },
+          { "nome": "Pular obstáculos", "repeticoes": 3, "series": 3 },
+          { "nome": "Saltos laterais", "repeticoes": 3, "series": 4 }
+        ]
+      }, 
+      {
+        "objetivo": "Treinamento Esportivo",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Sprints de 100 metros", "repeticoes": 6, "descanso": "2 minutos" },
+          { "nome": "Agachamento com barra", "repeticoes": 4, "series": 5, "carga": "80% 1RM", "Image":"https://treinomestre.com.br/wp-content/uploads/2015/10/agachamento-profundo-com-barra-.jpg" },
+          { "nome": "Saltos verticais", "repeticoes": 4, "series": 4 },
+          { "nome": "Treinamento de agilidade", "repeticoes": 8, "descanso": "1 minuto" },
+          { "nome": "Treino de precisão (passes, chutes, etc.)", "repeticoes": 5, "series": 3 },
+          { "nome": "Exercícios pliométricos", "repeticoes": 4, "series": 4 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento Esportivo",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Corrida contínua de 30 minutos", "repeticoes": 1 },
+          { "nome": "Treino de resistência muscular", "repeticoes": 3, "series": 4 },
+          { "nome": "Treinamento de flexibilidade", "repeticoes": 1, "series": 3 },
+          { "nome": "Treino de agilidade e mudança de direção", "repeticoes": 10, "descanso": "1 minuto" },
+          { "nome": "Treino específico do esporte (simulações de jogo, etc.)", "repeticoes": 4, "series": 3 },
+          { "nome": "Treino de explosão", "repeticoes": 4, "series": 4 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento Esportivo",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Treino de resistência cardiovascular", "repeticoes": 1, "series": 3 },
+          { "nome": "Treino de força funcional", "repeticoes": 4, "series": 5 },
+          { "nome": "Treinamento de agilidade", "repeticoes": 6, "descanso": "1 minuto" },
+          { "nome": "Treino de coordenação e equilíbrio", "repeticoes": 3, "series": 4 },
+          { "nome": "Treino de habilidades específicas do esporte", "repeticoes": 5, "series": 3 },
+          { "nome": "Treino de explosão e velocidade", "repeticoes": 4, "series": 4 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento Esportivo",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Sprints de 100 metros", "repeticoes": 6, "descanso": "2 minutos" },
+          { "nome": "Agachamento com barra", "repeticoes": 4, "series": 5, "carga": "80% 1RM", "Image":"https://treinomestre.com.br/wp-content/uploads/2015/10/agachamento-profundo-com-barra-.jpg" },
+          { "nome": "Saltos verticais", "repeticoes": 4, "series": 4 },
+          { "nome": "Treinamento de agilidade", "repeticoes": 8, "descanso": "1 minuto" },
+          { "nome": "Treino de precisão (passes, chutes, etc.)", "repeticoes": 5, "series": 3 },
+          { "nome": "Exercícios pliométricos", "repeticoes": 4, "series": 4 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento Esportivo",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Corrida contínua de 30 minutos", "repeticoes": 1 },
+          { "nome": "Treino de resistência muscular", "repeticoes": 3, "series": 4 },
+          { "nome": "Treinamento de flexibilidade", "repeticoes": 1, "series": 3 },
+          { "nome": "Treino de agilidade e mudança de direção", "repeticoes": 10, "descanso": "1 minuto" },
+          { "nome": "Treino específico do esporte (simulações de jogo, etc.)", "repeticoes": 4, "series": 3 },
+          { "nome": "Treino de explosão", "repeticoes": 4, "series": 4 }
+        ]
+      },
+      {
+        "objetivo": "Reabilitação",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Alongamento suave", "repeticoes": 3, "series": 2 },
+          { "nome": "Mobilização articular", "repeticoes": 2, "series": 2 },
+          { "nome": "Exercícios de fortalecimento isométrico", "repeticoes": "10 segundos", "series": 3 },
+          { "nome": "Exercícios de amplitude de movimento", "repeticoes": 10, "series": 3 },
+          { "nome": "Exercícios de propriocepção", "repeticoes": 10, "series": 3 },
+          { "nome": "Exercícios de equilíbrio", "repeticoes": 10, "series": 3 }
+        ]
+      },
+      {
+        "objetivo": "Reabilitação",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Exercícios de fortalecimento excêntrico", "repeticoes": 10, "series": 3 },
+          { "nome": "Alongamento ativo", "repeticoes": 3, "series": 2 },
+          { "nome": "Exercícios de mobilidade funcional", "repeticoes": 10, "series": 3 },
+          { "nome": "Exercícios de estabilidade", "repeticoes": 10, "series": 3 },
+          { "nome": "Trabalho em superfícies instáveis", "repeticoes": 10, "series": 3 },
+          { "nome": "Exercícios funcionais específicos", "repeticoes": 10, "series": 3 }
+        ]
+      },
+      {
+        "objetivo": "Reabilitação",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Treino de resistência cardiovascular leve", "repeticoes": 20 },
+          { "nome": "Exercícios de mobilidade global", "repeticoes": 10, "series": 3 },
+          { "nome": "Exercícios de fortalecimento progressivo", "repeticoes": 12, "series": 3 },
+          { "nome": "Exercícios de flexibilidade", "repeticoes": 10, "series": 3 },
+          { "nome": "Exercícios de propriocepção avançados", "repeticoes": 10, "series": 3 },
+          { "nome": "Simulações funcionais de atividades diárias", "repeticoes": 10, "series": 3 }
+        ]
+      },
+      {
+        "objetivo": "Reabilitação",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Mobilização passiva assistida", "repeticoes": 2, "series": 2 },
+          { "nome": "Exercícios de respiração diafragmática", "repeticoes": 10, "series": 3 },
+          { "nome": "Exercícios de fortalecimento isométrico suave", "repeticoes": "10 segundos", "series": 3 },
+          { "nome": "Exercícios de mobilidade articular", "repeticoes": 10, "series": 3 },
+          { "nome": "Exercícios de propriocepção inicial", "repeticoes": 10, "series": 3 },
+          { "nome": "Alongamento leve", "repeticoes": 3, "series": 2 }
+        ]
+      },
+      {
+        "objetivo": "Reabilitação",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Exercícios de fortalecimento progressivo", "repeticoes": 10, "series": 3 },
+          { "nome": "Exercícios de mobilidade funcional", "repeticoes": 10, "series": 3 },
+          { "nome": "Exercícios de estabilidade", "repeticoes": 10, "series": 3 },
+          { "nome": "Exercícios de equilíbrio", "repeticoes": 10, "series": 3 },
+          { "nome": "Treino em piscina (hidroterapia)", "repeticoes": 20 },
+          { "nome": "Exercícios funcionais progressivos", "repeticoes": 10, "series": 3 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento de Resistência",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Corrida contínua leve", "repeticoes": 1, "duracao": "30 minutos" },
+          { "nome": "Flexões de braço", "repeticoes": 3, "series": 4 },
+          { "nome": "Agachamento corporal", "repeticoes": 3, "series": 4, "Image":"https://739028l.ha.azioncdn.net/img/2022/05/blog/8730/musculatura-envolvida-no-agachamento.jpg" },
+          { "nome": "Bicicleta ergométrica", "repeticoes": 1, "duracao": "20 minutos" },
+          { "nome": "Prancha abdominal", "repeticoes": 3, "series": 3 },
+          { "nome": "Natação contínua", "repeticoes": 1, "duracao": "20 minutos" }
+        ]
+      },
+      {
+        "objetivo": "Treinamento de Resistência",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Caminhada rápida", "repeticoes": 1, "duracao": "40 minutos" },
+          { "nome": "Supino com halteres", "repeticoes": 3, "series": 4, "Image": "https://treinomestre.com.br/wp-content/uploads/2017/08/supino-fechado-cp.jpg.webp" },
+          { "nome": "Avanço com barra", "repeticoes": 3, "series": 4 },
+          { "nome": "Bicicleta estacionária", "repeticoes": 1, "duracao": "25 minutos" },
+          { "nome": "Abdominais oblíquos", "repeticoes": 3, "series": 3 },
+          { "nome": "Natação intervalada", "repeticoes": 10, "duracao": "30 segundos (rápido) / 30 segundos (leve)" }
+        ]
+      },
+      {
+        "objetivo": "Treinamento de Resistência",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Corrida de média intensidade", "repeticoes": 1, "duracao": "35 minutos" },
+          { "nome": "Pull-ups", "repeticoes": 3, "series": 4 },
+          { "nome": "Agachamento frontal com barra", "repeticoes": 3, "series": 4, "Image":"https://treinomestre.com.br/wp-content/uploads/2015/10/agachamento-profundo-com-barra-.jpg" },
+          { "nome": "Treino elíptico", "repeticoes": 1, "duracao": "30 minutos" },
+          { "nome": "Prancha lateral", "repeticoes": 3, "series": 3 },
+          { "nome": "Ciclismo de alta intensidade", "repeticoes": 1, "duracao": "15 minutos (alternando entre 30 segundos intenso / 30 segundos leve)" }
+        ]
+      },
+      {
+        "objetivo": "Treinamento de Resistência",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Corrida contínua leve", "repeticoes": 1, "duracao": "30 minutos" },
+          { "nome": "Flexões de braço", "repeticoes": 3, "series": 4 },
+          { "nome": "Agachamento corporal", "repeticoes": 3, "series": 4, "Image":"https://treinomestre.com.br/wp-content/uploads/2015/10/agachamento-profundo-com-barra-.jpg" },
+          { "nome": "Bicicleta ergométrica", "repeticoes": 1, "duracao": "20 minutos" },
+          { "nome": "Prancha abdominal", "repeticoes": 3, "series": 3 },
+          { "nome": "Natação contínua", "repeticoes": 1, "duracao": "20 minutos" }
+        ]
+      },
+      {
+        "objetivo": "Treinamento de Resistência",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Caminhada rápida", "repeticoes": 1, "duracao": "40 minutos" },
+          { "nome": "Supino com halteres", "repeticoes": 3, "series": 4, "Image": "https://treinomestre.com.br/wp-content/uploads/2017/08/supino-fechado-cp.jpg.webp" },
+          { "nome": "Avanço com barra", "repeticoes": 3, "series": 4 },
+          { "nome": "Bicicleta estacionária", "repeticoes": 1, "duracao": "25 minutos" },
+          { "nome": "Abdominais oblíquos", "repeticoes": 3, "series": 3 },
+          { "nome": "Natação intervalada", "repeticoes": 10, "duracao": "30 segundos (rápido) / 30 segundos (leve)" }
+        ]
+      },
+      {
+        "objetivo": "Treinamento de Core",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Prancha frontal", "repeticoes": 3, "duracao": "30 segundos" },
+          { "nome": "Flexões de quadril", "repeticoes": 3, "series": 3 },
+          { "nome": "Prancha lateral", "repeticoes": 3, "duracao": "30 segundos" },
+          { "nome": "Bicicleta no ar", "repeticoes": 3, "series": 3 },
+          { "nome": "Russian twists", "repeticoes": 3, "series": 3 },
+          { "nome": "Dead bug", "repeticoes": 3, "series": 3 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento de Core",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Superman", "repeticoes": 3, "series": 3 },
+          { "nome": "Levantamento de pernas suspenso", "repeticoes": 3, "series": 3 },
+          { "nome": "Prancha com elevação alternada de braço e perna", "repeticoes": 3, "series": 3 },
+          { "nome": "Torção russa com peso", "repeticoes": 3, "series": 3 },
+          { "nome": "Prancha frontal com deslizamento", "repeticoes": 3, "duracao": "30 segundos" },
+          { "nome": "Prancha lateral com rotação", "repeticoes": 3, "duracao": "30 segundos" }
+        ]
+      },
+      {
+        "objetivo": "Treinamento de Core",
+        "id": "ABC",
+        "exercicios": [
+          { "nome": "Prancha frontal com braço estendido", "repeticoes": 3, "duracao": "30 segundos" },
+          { "nome": "Mountain climbers", "repeticoes": 3, "series": 3 },
+          { "nome": "Ponte de quadril", "repeticoes": 3, "series": 3 },
+          { "nome": "V-ups", "repeticoes": 3, "series": 3 },
+          { "nome": "Prancha lateral com elevação de perna", "repeticoes": 3, "duracao": "30 segundos" },
+          { "nome": "Bicicleta no chão", "repeticoes": 3, "series": 3 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento de Core",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Prancha frontal", "repeticoes": 3, "duracao": "30 segundos" },
+          { "nome": "Flexões de quadril", "repeticoes": 3, "series": 3 },
+          { "nome": "Prancha lateral", "repeticoes": 3, "duracao": "30 segundos" },
+          { "nome": "Bicicleta no ar", "repeticoes": 3, "series": 3 },
+          { "nome": "Russian twists", "repeticoes": 3, "series": 3 },
+          { "nome": "Dead bug", "repeticoes": 3, "series": 3 }
+        ]
+      },
+      {
+        "objetivo": "Treinamento de Core",
+        "id": "AB",
+        "exercicios": [
+          { "nome": "Superman", "repeticoes": 3, "series": 3 },
+          { "nome": "Levantamento de pernas suspenso", "repeticoes": 3, "series": 3 },
+          { "nome": "Prancha com elevação alternada de braço e perna", "repeticoes": 3, "series": 3 },
+          { "nome": "Torção russa com peso", "repeticoes": 3, "series": 3 },
+          { "nome": "Prancha frontal com deslizamento", "repeticoes": 3, "duracao": "30 segundos" },
+          { "nome": "Prancha lateral com rotação", "repeticoes": 3, "duracao": "30 segundos" }
+        ]
+      }
+    ]
+  }

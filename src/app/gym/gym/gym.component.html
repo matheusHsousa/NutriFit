@@ -1,0 +1,56 @@
+<mat-stepper #stepper>
+    <mat-step [stepControl]="pesoFormGroup" errorMessage="Peso is required.">
+      <form [formGroup]="pesoFormGroup">
+        <ng-template matStepLabel>Peso</ng-template>
+        <mat-form-field>
+          <mat-label>Peso</mat-label>
+          <input matInput placeholder="Peso" formControlName="peso" required>
+        </mat-form-field>
+        <div>
+          <button mat-button matStepperNext>Proximo</button>
+        </div>
+      </form>
+    </mat-step>
+    <mat-step [stepControl]="disponibilidadeFormGroup" errorMessage="Disponibilidade is required.">
+      <form [formGroup]="disponibilidadeFormGroup">
+        <ng-template matStepLabel>Disponibilidade</ng-template>
+        <mat-form-field class="width-100">
+          <mat-select formControlName="disponibilidade">
+            <mat-option *ngFor="let dia of dias" [value]="dia">
+              {{ dia }}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+        <div>
+          <button mat-button matStepperPrevious>Retornar</button>
+          <button mat-button matStepperNext>Proximo</button>
+        </div>
+      </form>
+    </mat-step>
+    <mat-step [stepControl]="objetivoForm" errorMessage="Objetivo is required.">
+      <form [formGroup]="objetivoForm">
+        <ng-template matStepLabel>Objetivo</ng-template>
+        <mat-form-field class="width-100">
+          <mat-select formControlName="obj">
+            <mat-option *ngFor="let item of obj" [value]="item">
+              {{ item }}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+        <div>
+          <button mat-button matStepperPrevious>Retornar</button>
+          <button mat-button matStepperNext>Proximo</button>
+        </div>
+      </form>
+    </mat-step>
+    <mat-step>
+      <ng-template matStepLabel>Done</ng-template>
+      <p>O formulario acabou.</p>
+      <div>
+        <button mat-button matStepperPrevious>Retornar</button>
+        <button mat-button (click)="valores()">Criar seu treino!</button>
+        <button mat-button routerLink="">Menu inicial</button>
+      </div>
+    </mat-step>
+  </mat-stepper>
+  

@@ -1,0 +1,87 @@
+<div class="padding-dialog">
+  <p>Tipo de treino:</p>
+  <h1 [hidden]="!treinningC">ABC</h1>
+  <h1 [hidden]="treinningC">AB</h1>
+</div>
+
+<mat-dialog-content>
+  <mat-tab-group fitInkBarToContent>
+    <mat-tab label="Treino A">
+      <div class="container">
+        <div>
+          <label>Exercicios</label>
+          <mat-list>
+            <mat-list-item *ngFor="let item of treinningA">
+              {{ item }}
+            </mat-list-item>
+          </mat-list>
+        </div>
+        <div>
+          <label>Series:</label>
+          <mat-list>
+            <mat-list-item *ngFor="let item of serieA">
+                {{ item || '-' }}
+            </mat-list-item>
+          </mat-list>
+        </div>
+        <div>
+          <label>Repetições:</label>
+          <mat-list>
+            <mat-list-item *ngFor="let item of repeticaoA">
+                {{ item || '-' }}
+            </mat-list-item>
+          </mat-list>
+        </div>
+      </div>
+    </mat-tab>
+
+    <mat-tab label="Treino B">
+      <mat-list>
+        <div class="container">
+          <div>
+            <label>Exercicios:</label>
+            <mat-list-item *ngFor="let item of treinningB">
+              {{ item }}
+            </mat-list-item>
+          </div>
+          <div>
+            <label>Series:</label>
+            <mat-list-item *ngFor="let item of serieB">
+              {{ item || '-' }}
+            </mat-list-item>
+          </div>
+          <div>
+            <label>Repetições:</label>
+            <mat-list-item *ngFor="let item of repeticaoB">
+                {{ item || '-' }}
+            </mat-list-item>
+          </div>
+        </div>
+      </mat-list>
+    </mat-tab>
+    <mat-tab label="Treino C" [disabled]="!treinningC">
+      <div class="container">
+        <div>
+          <label>Exercicios:</label>
+          <mat-list-item *ngFor="let item of treinningC" class="padding-10">
+            <span > {{ item }} </span>
+          </mat-list-item>
+        </div>
+        <div>
+          <label>Series:</label>
+
+          <mat-list-item *ngFor="let item of serieC" class="padding-10"  >
+            {{ item || '-' }}
+          </mat-list-item>
+        </div>
+        <div>
+          <label>Repetições:</label>
+
+          <mat-list-item *ngFor="let item of repeticaoC" class="padding-10">
+            {{ item || '-' }}
+          </mat-list-item>
+        </div>
+      </div>
+    </mat-tab>
+  </mat-tab-group>
+</mat-dialog-content>

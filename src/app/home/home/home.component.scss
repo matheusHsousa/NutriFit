@@ -1,0 +1,41 @@
+.example-card {
+  max-width: 350px;
+  height: 400px;
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.card-container {
+  cursor: pointer;
+}
+
+.image-container {
+  max-width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.circular-image img {
+  width: 100px;
+  height: auto;
+}
+
+h2,
+p {
+  color: white;
+}
+.width {
+  width: 100px;
+}
+
+.center-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}

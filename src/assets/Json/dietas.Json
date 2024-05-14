@@ -1,0 +1,989 @@
+{
+    "objetivos": [
+      {
+        "objetivo": "Perda de Peso",
+        "id": "Muito Abaixo do Peso (16-16.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Aveia com banana e nozes.",
+            "almoco": "Salada de espinafre com frango grelhado.",
+            "jantar": "Salmão com aspargos."
+          },
+          "terca": {
+            "cafe_da_manha": "Aveia com banana e nozes.",
+            "almoco": "Salada de espinafre com frango grelhado.",
+            "jantar": "Salmão com aspargos."
+          },
+          "quarta": {
+            "cafe_da_manha": "Aveia com banana e nozes.",
+            "almoco": "Salada de espinafre com frango grelhado.",
+            "jantar": "Salmão com aspargos."
+          },
+          "quinta": {
+            "cafe_da_manha": "Aveia com banana e nozes.",
+            "almoco": "Salada de espinafre com frango grelhado.",
+            "jantar": "Salmão com aspargos."
+          },
+          "sexta": {
+            "cafe_da_manha": "Aveia com banana e nozes.",
+            "almoco": "Salada de espinafre com frango grelhado.",
+            "jantar": "Salmão com aspargos."
+          },
+          "sabado": {
+            "cafe_da_manha": "Aveia com banana e nozes.",
+            "almoco": "Salada de espinafre com frango grelhado.",
+            "jantar": "Salmão com aspargos."
+          },
+          "domingo": {
+            "cafe_da_manha": "Aveia com banana e nozes.",
+            "almoco": "Salada de espinafre com frango grelhado.",
+            "jantar": "Salmão com aspargos."
+          }
+        }
+      },
+      {
+        "objetivo": "Perda de Peso",
+        "id": "Abaixo do Peso (17-18.4)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Omelete de claras com legumes.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com vegetais."
+          },
+          "terca": {
+            "cafe_da_manha": "Omelete de claras com legumes.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com vegetais."
+          },
+          "quarta": {
+            "cafe_da_manha": "Omelete de claras com legumes.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com vegetais."
+          },
+          "quinta": {
+            "cafe_da_manha": "Omelete de claras com legumes.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com vegetais."
+          },
+          "sexta": {
+            "cafe_da_manha": "Omelete de claras com legumes.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com vegetais."
+          },
+          "sabado": {
+            "cafe_da_manha": "Omelete de claras com legumes.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com vegetais."
+          },
+          "domingo": {
+            "cafe_da_manha": "Omelete de claras com legumes.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com vegetais."
+          }
+        }
+      },
+      {
+        "objetivo": "Perda de Peso",
+        "id": "Peso Normal (18.5-24.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Smoothie de frutas com iogurte.",
+            "almoco": "Quinoa com frango e vegetais assados.",
+            "jantar": "Peixe grelhado com brócolis."
+          },
+          "terca": {
+            "cafe_da_manha": "Smoothie de frutas com iogurte.",
+            "almoco": "Quinoa com frango e vegetais assados.",
+            "jantar": "Peixe grelhado com brócolis."
+          },
+          "quarta": {
+            "cafe_da_manha": "Smoothie de frutas com iogurte.",
+            "almoco": "Quinoa com frango e vegetais assados.",
+            "jantar": "Peixe grelhado com brócolis."
+          },
+          "quinta": {
+            "cafe_da_manha": "Smoothie de frutas com iogurte.",
+            "almoco": "Quinoa com frango e vegetais assados.",
+            "jantar": "Peixe grelhado com brócolis."
+          },
+          "sexta": {
+            "cafe_da_manha": "Smoothie de frutas com iogurte.",
+            "almoco": "Quinoa com frango e vegetais assados.",
+            "jantar": "Peixe grelhado com brócolis."
+          },
+          "sabado": {
+            "cafe_da_manha": "Smoothie de frutas com iogurte.",
+            "almoco": "Quinoa com frango e vegetais assados.",
+            "jantar": "Peixe grelhado com brócolis."
+          },
+          "domingo": {
+            "cafe_da_manha": "Smoothie de frutas com iogurte.",
+            "almoco": "Quinoa com frango e vegetais assados.",
+            "jantar": "Peixe grelhado com brócolis."
+          }
+        }
+      },
+      {
+        "objetivo": "Perda de Peso",
+        "id": "Acima do Peso (25-40.0)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Mingau de aveia com frutas.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Frango assado com legumes."
+          },
+          "terca": {
+            "cafe_da_manha": "Mingau de aveia com frutas.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Frango assado com legumes."
+          },
+          "quarta": {
+            "cafe_da_manha": "Mingau de aveia com frutas.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Frango assado com legumes."
+          },
+          "quinta": {
+            "cafe_da_manha": "Mingau de aveia com frutas.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Frango assado com legumes."
+          },
+          "sexta": {
+            "cafe_da_manha": "Mingau de aveia com frutas.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Frango assado com legumes."
+          },
+          "sabado": {
+            "cafe_da_manha": "Mingau de aveia com frutas.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Frango assado com legumes."
+          },
+          "domingo": {
+            "cafe_da_manha": "Mingau de aveia com frutas.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Frango assado com legumes."
+          }
+        }
+      },
+      {
+        "objetivo": "Manutenção de Peso Saudável",
+        "id": "Muito Abaixo do Peso (16-16.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Omelete com espinafre e queijo",
+            "almoco": "Frango grelhado com batata doce e brócolis",
+            "jantar": "Salmão assado com quinoa e legumes"
+          },
+          "terca": {
+            "cafe_da_manha": "Iogurte grego com frutas e granola",
+            "almoco": "Wrap de peru com abacate e salada",
+            "jantar": "Tofu mexido com vegetais"
+          },
+          "quarta": {
+            "cafe_da_manha": "Smoothie de banana, aveia e amêndoas",
+            "almoco": "Salada de atum com grão-de-bico e azeite",
+            "jantar": "Frango assado com batata e aspargos"
+          },
+          "quinta": {
+            "cafe_da_manha": "Pão integral com abacate e ovos",
+            "almoco": "Sopa de lentilha com vegetais",
+            "jantar": "Tilápia grelhada com arroz integral e legumes"
+          },
+          "sexta": {
+            "cafe_da_manha": "Panquecas de aveia com frutas",
+            "almoco": "Hambúrguer de feijão com salada",
+            "jantar": "Omelete com cogumelos e espinafre"
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas",
+            "almoco": "Quinoa com legumes e castanhas",
+            "jantar": "Peito de frango recheado com queijo cottage"
+          },
+          "domingo": {
+            "cafe_da_manha": "Torradas integrais com abacate",
+            "almoco": "Salada de grãos com vegetais grelhados",
+            "jantar": "Omelete com queijo e tomate"
+          }
+        }
+      },
+      {
+        "objetivo": "Manutenção de Peso Saudável",
+        "id": "Abaixo do Peso (17-18.4)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Smoothie de proteína com frutas",
+            "almoco": "Frango com batata e brócolis",
+            "jantar": "Salmão grelhado com aspargos"
+          },
+          "terca": {
+            "cafe_da_manha": "Iogurte grego com amêndoas e mel",
+            "almoco": "Wrap de frango com abacate e vegetais",
+            "jantar": "Omelete com espinafre e queijo feta"
+          },
+          "quarta": {
+            "cafe_da_manha": "Panquecas de proteína com morangos",
+            "almoco": "Salada de atum com feijão e azeite",
+            "jantar": "Tofu mexido com cogumelos"
+          },
+          "quinta": {
+            "cafe_da_manha": "Tigela de aveia com nozes e frutas",
+            "almoco": "Sopa de lentilha com pão integral",
+            "jantar": "Peito de frango grelhado com quinoa"
+          },
+          "sexta": {
+            "cafe_da_manha": "Ovos mexidos com abacate",
+            "almoco": "Hambúrguer de peru com salada",
+            "jantar": "Salmão assado com legumes"
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de iogurte com granola e frutas",
+            "almoco": "Quinoa com legumes e castanhas",
+            "jantar": "Frango grelhado com batata doce"
+          },
+          "domingo": {
+            "cafe_da_manha": "Torradas integrais com cottage",
+            "almoco": "Salada de grãos com abacate",
+            "jantar": "Omelete com queijo e espinafre"
+          }
+        }
+      },
+      {
+        "objetivo": "Manutenção de Peso Saudável",
+        "id": "Peso Normal (18.5-24.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Smoothie de frutas com iogurte",
+            "almoco": "Salada de frango com vegetais",
+            "jantar": "Peixe grelhado com quinoa"
+          },
+          "terca": {
+            "cafe_da_manha": "Ovos mexidos com espinafre",
+            "almoco": "Wrap de atum com abacate e salada",
+            "jantar": "Tofu assado com legumes"
+          },
+          "quarta": {
+            "cafe_da_manha": "Tigela de aveia com frutas e nozes",
+            "almoco": "Salmão grelhado com batata doce e aspargos",
+            "jantar": "Frango assado com quinoa e legumes"
+          },
+          "quinta": {
+            "cafe_da_manha": "Pão integral com abacate e ovos",
+            "almoco": "Sopa de lentilha com vegetais",
+            "jantar": "Peixe assado com brócolis"
+          },
+          "sexta": {
+            "cafe_da_manha": "Smoothie de proteína com manteiga de amendoim",
+            "almoco": "Hambúrguer de frango com salada",
+            "jantar": "Omelete com cogumelos e espinafre"
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas",
+            "almoco": "Quinoa com legumes e castanhas",
+            "jantar": "Frango grelhado com abobrinha"
+          },
+          "domingo": {
+            "cafe_da_manha": "Torradas integrais com abacate",
+            "almoco": "Salada de grãos com vegetais grelhados",
+            "jantar": "Omelete com queijo e tomate"
+          }
+        }
+      },
+      {
+        "objetivo": "Manutenção de Peso Saudável",
+        "id": "Acima do Peso (25-40.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Smoothie de proteína com frutas",
+            "almoco": "Frango grelhado com arroz integral e vegetais",
+            "jantar": "Salmão assado com quinoa"
+          },
+          "terca": {
+            "cafe_da_manha": "Iogurte grego com amêndoas e mel",
+            "almoco": "Wrap de peru com abacate e salada",
+            "jantar": "Tofu mexido com vegetais"
+          },
+          "quarta": {
+            "cafe_da_manha": "Panquecas de proteína com morangos",
+            "almoco": "Salada de atum com grão-de-bico e azeite",
+            "jantar": "Frango assado com batata e legumes"
+          },
+          "quinta": {
+            "cafe_da_manha": "Tigela de aveia com nozes e frutas",
+            "almoco": "Sopa de lentilha com pão integral",
+            "jantar": "Peixe grelhado com quinoa e brócolis"
+          },
+          "sexta": {
+            "cafe_da_manha": "Ovos mexidos com abacate",
+            "almoco": "Hambúrguer de feijão com salada",
+            "jantar": "Salmão assado com legumes"
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de iogurte com granola e frutas",
+            "almoco": "Quinoa com legumes e castanhas",
+            "jantar": "Frango grelhado com batata doce"
+          },
+          "domingo": {
+            "cafe_da_manha": "Torradas integrais com cottage",
+            "almoco": "Salada de grãos com abacate",
+            "jantar": "Omelete com queijo e espinafre"
+          }
+        }
+      },
+      {
+        "objetivo": "Ganho de Massa Muscular",
+        "id": "Muito Abaixo do Peso (16-16.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Omelete de ovos inteiros com abacate.",
+            "almoco": "Quinoa com frango grelhado e legumes.",
+            "jantar": "Salmão com batata-doce."
+          },
+          "terca": {
+            "cafe_da_manha": "Smoothie de proteína com frutas e amêndoas.",
+            "almoco": "Hambúrguer de carne com arroz e vegetais.",
+            "jantar": "Tofu grelhado com quinoa."
+          },
+          "quarta": {
+            "cafe_da_manha": "Panquecas de aveia com banana e nozes.",
+            "almoco": "Frango assado com batata-doce e brócolis.",
+            "jantar": "Peixe grelhado com quinoa e legumes."
+          },
+          "quinta": {
+            "cafe_da_manha": "Iogurte grego com granola e frutas.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Omelete de ovos inteiros com espinafre."
+          },
+          "sexta": {
+            "cafe_da_manha": "Aveia com pasta de amendoim e banana.",
+            "almoco": "Quinoa com carne moída e vegetais.",
+            "jantar": "Salmão assado com batata-doce."
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas.",
+            "almoco": "Frango grelhado com arroz integral e legumes.",
+            "jantar": "Tofu mexido com vegetais."
+          },
+          "domingo": {
+            "cafe_da_manha": "Waffle de proteína com frutas.",
+            "almoco": "Peito de frango com batata-doce e salada.",
+            "jantar": "Peixe assado com quinoa."
+          }
+        }
+      },
+      {
+        "objetivo": "Ganho de Massa Muscular",
+        "id": "Abaixo do Peso (17-18.4)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Smoothie de banana e manteiga de amendoim.",
+            "almoco": "Wrap de frango com vegetais.",
+            "jantar": "Tofu grelhado com arroz integral."
+          },
+          "terca": {
+            "cafe_da_manha": "Ovos mexidos com abacate.",
+            "almoco": "Frango grelhado com quinoa e legumes.",
+            "jantar": "Salmão assado com batata-doce."
+          },
+          "quarta": {
+            "cafe_da_manha": "Panquecas de proteína com frutas.",
+            "almoco": "Hambúrguer de carne com arroz e vegetais.",
+            "jantar": "Tofu grelhado com legumes."
+          },
+          "quinta": {
+            "cafe_da_manha": "Iogurte grego com granola e frutas.",
+            "almoco": "Frango assado com batata-doce e brócolis.",
+            "jantar": "Peixe grelhado com quinoa e legumes."
+          },
+          "sexta": {
+            "cafe_da_manha": "Aveia com pasta de amendoim e banana.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Omelete de ovos inteiros com espinafre."
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas.",
+            "almoco": "Quinoa com carne moída e vegetais.",
+            "jantar": "Salmão assado com batata-doce."
+          },
+          "domingo": {
+            "cafe_da_manha": "Waffle de proteína com frutas.",
+            "almoco": "Frango grelhado com arroz integral e legumes.",
+            "jantar": "Tofu mexido com vegetais."
+          }
+        }
+      },
+      {
+        "objetivo": "Ganho de Massa Muscular",
+        "id": "Peso Normal (18.5-24.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Aveia com frutas e claras de ovo.",
+            "almoco": "Peito de frango com arroz integral e vegetais.",
+            "jantar": "Salmão com quinoa e legumes."
+          },
+          "terca": {
+            "cafe_da_manha": "Ovos mexidos com abacate.",
+            "almoco": "Frango grelhado com batata-doce e brócolis.",
+            "jantar": "Tofu grelhado com arroz integral."
+          },
+          "quarta": {
+            "cafe_da_manha": "Panquecas de proteína com frutas.",
+            "almoco": "Hambúrguer de carne com quinoa e legumes.",
+            "jantar": "Peixe assado com batata-doce."
+          },
+          "quinta": {
+            "cafe_da_manha": "Iogurte grego com granola e frutas.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Salmão grelhado com quinoa."
+          },
+          "sexta": {
+            "cafe_da_manha": "Aveia com pasta de amendoim e banana.",
+            "almoco": "Frango assado com arroz integral e legumes.",
+            "jantar": "Tofu mexido com legumes."
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas.",
+            "almoco": "Quinoa com carne moída e vegetais.",
+            "jantar": "Peixe grelhado com brócolis."
+          },
+          "domingo": {
+            "cafe_da_manha": "Waffle de proteína com frutas.",
+            "almoco": "Peito de frango com batata-doce e salada.",
+            "jantar": "Salmão com quinoa e legumes."
+          }
+        }
+      },
+      {
+        "objetivo": "Ganho de Massa Muscular",
+        "id": "Acima do Peso (25-40.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Iogurte grego com granola e frutas.",
+            "almoco": "Salada de grão-de-bico com frango grelhado.",
+            "jantar": "Peixe assado com batata-doce."
+          },
+          "terca": {
+            "cafe_da_manha": "Smoothie de proteína com frutas e amêndoas.",
+            "almoco": "Hambúrguer de carne com arroz e vegetais.",
+            "jantar": "Tofu grelhado com quinoa."
+          },
+          "quarta": {
+            "cafe_da_manha": "Panquecas de aveia com banana e nozes.",
+            "almoco": "Frango grelhado com batata-doce e brócolis.",
+            "jantar": "Salmão grelhado com quinoa."
+          },
+          "quinta": {
+            "cafe_da_manha": "Iogurte grego com granola e frutas.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Tofu mexido com legumes."
+          },
+          "sexta": {
+            "cafe_da_manha": "Aveia com pasta de amendoim e banana.",
+            "almoco": "Quinoa com carne moída e vegetais.",
+            "jantar": "Peixe assado com batata-doce."
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas.",
+            "almoco": "Frango grelhado com arroz integral e legumes.",
+            "jantar": "Salmão com quinoa e legumes."
+          },
+          "domingo": {
+            "cafe_da_manha": "Waffle de proteína com frutas.",
+            "almoco": "Salada de grão-de-bico com frango grelhado.",
+            "jantar": "Peixe grelhado com brócolis."
+          }
+        }
+      },
+      {
+        "objetivo": "Aumento de Energia",
+        "id": "Muito Abaixo do Peso (16-16.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Aveia com banana e nozes.",
+            "almoco": "Wrap de frango com vegetais.",
+            "jantar": "Salmão com quinoa e brócolis."
+          },
+          "terca": {
+            "cafe_da_manha": "Smoothie de frutas e proteína em pó.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Tofu grelhado com arroz integral e legumes."
+          },
+          "quarta": {
+            "cafe_da_manha": "Omelete de claras com espinafre.",
+            "almoco": "Frango grelhado com batata-doce e legumes.",
+            "jantar": "Peixe assado com quinoa e vegetais."
+          },
+          "quinta": {
+            "cafe_da_manha": "Tigela de aveia com frutas e nozes.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Tofu mexido com legumes."
+          },
+          "sexta": {
+            "cafe_da_manha": "Smoothie de proteína com banana e amêndoas.",
+            "almoco": "Hambúrguer de carne com arroz e vegetais.",
+            "jantar": "Peixe grelhado com brócolis."
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas.",
+            "almoco": "Frango grelhado com quinoa e legumes.",
+            "jantar": "Salmão com batata-doce."
+          },
+          "domingo": {
+            "cafe_da_manha": "Waffle de proteína com frutas.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Tofu grelhado com arroz integral e vegetais."
+          }
+        }
+      },
+      {
+        "objetivo": "Aumento de Energia",
+        "id": "Abaixo do Peso (17-18.4)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Smoothie de frutas e proteína em pó.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Tofu grelhado com arroz integral e legumes."
+          },
+          "terca": {
+            "cafe_da_manha": "Ovos mexidos com abacate.",
+            "almoco": "Frango grelhado com batata-doce e legumes.",
+            "jantar": "Peixe assado com quinoa e vegetais."
+          },
+          "quarta": {
+            "cafe_da_manha": "Panquecas de proteína com frutas.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Tofu mexido com legumes."
+          },
+          "quinta": {
+            "cafe_da_manha": "Smoothie de proteína com banana e amêndoas.",
+            "almoco": "Hambúrguer de carne com arroz e vegetais.",
+            "jantar": "Salmão com batata-doce."
+          },
+          "sexta": {
+            "cafe_da_manha": "Tigela de aveia com frutas e nozes.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Tofu grelhado com arroz integral e legumes."
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas.",
+            "almoco": "Frango grelhado com batata-doce e legumes.",
+            "jantar": "Peixe assado com quinoa e vegetais."
+          },
+          "domingo": {
+            "cafe_da_manha": "Waffle de proteína com frutas.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Tofu mexido com legumes."
+          }
+        }
+      },
+      {
+        "objetivo": "Aumento de Energia",
+        "id": "Peso Normal (18.5-24.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Omelete de claras com legumes.",
+            "almoco": "Peito de frango com quinoa e vegetais.",
+            "jantar": "Peixe grelhado com batata-doce."
+          },
+          "terca": {
+            "cafe_da_manha": "Smoothie de frutas e proteína em pó.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Tofu grelhado com arroz integral e legumes."
+          },
+          "quarta": {
+            "cafe_da_manha": "Omelete de claras com espinafre.",
+            "almoco": "Frango grelhado com batata-doce e legumes.",
+            "jantar": "Peixe assado com quinoa e vegetais."
+          },
+          "quinta": {
+            "cafe_da_manha": "Tigela de aveia com frutas e nozes.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Tofu mexido com legumes."
+          },
+          "sexta": {
+            "cafe_da_manha": "Smoothie de proteína com banana e amêndoas.",
+            "almoco": "Hambúrguer de carne com arroz e vegetais.",
+            "jantar": "Salmão com batata-doce."
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas.",
+            "almoco": "Frango grelhado com quinoa e legumes.",
+            "jantar": "Peixe grelhado com brócolis."
+          },
+          "domingo": {
+            "cafe_da_manha": "Waffle de proteína com frutas.",
+            "almoco": "Salada de atum com grão-de-bico.",
+            "jantar": "Tofu grelhado com arroz integral e legumes."
+          }
+        }
+      },
+      {
+        "objetivo": "Aumento de Energia",
+        "id": "Acima do Peso (25-40.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Mingau de aveia com frutas e nozes.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Frango assado com legumes."
+          },
+          "terca": {
+            "cafe_da_manha": "Smoothie de frutas e proteína em pó.",
+            "almoco": "Salada de grão-de-bico com frango grelhado.",
+            "jantar": "Peixe assado com batata-doce."
+          },
+          "quarta": {
+            "cafe_da_manha": "Omelete de claras com legumes.",
+            "almoco": "Hambúrguer de peru com abacate.",
+            "jantar": "Salmão com batata-doce."
+          },
+          "quinta": {
+            "cafe_da_manha": "Tigela de aveia com frutas e nozes.",
+            "almoco": "Wrap de frango com vegetais.",
+            "jantar": "Frango grelhado com legumes."
+          },
+          "sexta": {
+            "cafe_da_manha": "Smoothie de proteína com banana e amêndoas.",
+            "almoco": "Salada de grão-de-bico com frango grelhado.",
+            "jantar": "Peixe assado com brócolis."
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas.",
+            "almoco": "Hambúrguer de peru com abacate.",
+            "jantar": "Tofu grelhado com legumes."
+          },
+          "domingo": {
+            "cafe_da_manha": "Waffle de proteína com frutas.",
+            "almoco": "Salada de grão-de-bico com frango grelhado.",
+            "jantar": "Frango assado com batata-doce."
+          }
+        }
+      },
+      {
+        "objetivo": "Melhoria da Saúde Geral",
+        "id": "Muito Abaixo do Peso (16-16.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Omelete de claras com espinafre.",
+            "almoco": "Salada de quinoa com frango grelhado.",
+            "jantar": "Salmão com brócolis e batata-doce."
+          },
+          "terca": {
+            "cafe_da_manha": "Smoothie de frutas e vegetais.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com legumes."
+          },
+          "quarta": {
+            "cafe_da_manha": "Aveia com frutas e nozes.",
+            "almoco": "Quinoa com frango e legumes.",
+            "jantar": "Peixe grelhado com aspargos."
+          },
+          "quinta": {
+            "cafe_da_manha": "Iogurte grego com granola e frutas.",
+            "almoco": "Salada de grão-de-bico com atum.",
+            "jantar": "Frango assado com legumes."
+          },
+          "sexta": {
+            "cafe_da_manha": "Smoothie de proteína com espinafre e frutas.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com brócolis."
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas.",
+            "almoco": "Salada de quinoa com frango grelhado.",
+            "jantar": "Peixe grelhado com legumes."
+          },
+          "domingo": {
+            "cafe_da_manha": "Ovos mexidos com vegetais.",
+            "almoco": "Quinoa com frango e legumes.",
+            "jantar": "Salmão com aspargos."
+          }
+        }
+      },
+      {
+        "objetivo": "Melhoria da Saúde Geral",
+        "id": "Abaixo do Peso (17-18.4)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Smoothie de frutas e vegetais.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com legumes."
+          },
+          "terca": {
+            "cafe_da_manha": "Omelete de claras com espinafre.",
+            "almoco": "Frango grelhado com quinoa e legumes.",
+            "jantar": "Peixe grelhado com aspargos."
+          },
+          "quarta": {
+            "cafe_da_manha": "Smoothie de proteína com espinafre e frutas.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com brócolis."
+          },
+          "quinta": {
+            "cafe_da_manha": "Aveia com frutas e nozes.",
+            "almoco": "Salada de grão-de-bico com atum.",
+            "jantar": "Salmão com legumes."
+          },
+          "sexta": {
+            "cafe_da_manha": "Smoothie de frutas e vegetais.",
+            "almoco": "Frango grelhado com quinoa e legumes.",
+            "jantar": "Tofu grelhado com legumes."
+          },
+          "sabado": {
+            "cafe_da_manha": "Omelete de claras com espinafre.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Peixe grelhado com aspargos."
+          },
+          "domingo": {
+            "cafe_da_manha": "Iogurte grego com granola e frutas.",
+            "almoco": "Salada de grão-de-bico com atum.",
+            "jantar": "Salmão com legumes."
+          }
+        }
+      },
+      {
+        "objetivo": "Melhoria da Saúde Geral",
+        "id": "Peso Normal (18.5-24.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Aveia com frutas e nozes.",
+            "almoco": "Quinoa com frango e legumes.",
+            "jantar": "Peixe grelhado com aspargos."
+          },
+          "terca": {
+            "cafe_da_manha": "Smoothie de frutas e vegetais.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com legumes."
+          },
+          "quarta": {
+            "cafe_da_manha": "Omelete de claras com espinafre.",
+            "almoco": "Frango grelhado com quinoa e legumes.",
+            "jantar": "Salmão com aspargos."
+          },
+          "quinta": {
+            "cafe_da_manha": "Iogurte grego com granola e frutas.",
+            "almoco": "Salada de grão-de-bico com atum.",
+            "jantar": "Tofu grelhado com legumes."
+          },
+          "sexta": {
+            "cafe_da_manha": "Smoothie de proteína com espinafre e frutas.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Peixe grelhado com brócolis."
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas.",
+            "almoco": "Quinoa com frango e legumes.",
+            "jantar": "Salmão com legumes."
+          },
+          "domingo": {
+            "cafe_da_manha": "Ovos mexidos com vegetais.",
+            "almoco": "Salada de grão-de-bico com atum.",
+            "jantar": "Tofu grelhado com legumes."
+          }
+        }
+      },
+      {
+        "objetivo": "Melhoria da Saúde Geral",
+        "id": "Acima do Peso (25-40.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Iogurte grego com granola e frutas.",
+            "almoco": "Salada de grão-de-bico com atum.",
+            "jantar": "Frango assado com legumes."
+          },
+          "terca": {
+            "cafe_da_manha": "Smoothie de frutas e vegetais.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com legumes."
+          },
+          "quarta": {
+            "cafe_da_manha": "Omelete de claras com espinafre.",
+            "almoco": "Salada de grão-de-bico com atum.",
+            "jantar": "Salmão com legumes."
+          },
+          "quinta": {
+            "cafe_da_manha": "Aveia com frutas e nozes.",
+            "almoco": "Frango grelhado com quinoa e legumes.",
+            "jantar": "Tofu grelhado com legumes."
+          },
+          "sexta": {
+            "cafe_da_manha": "Smoothie de proteína com espinafre e frutas.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Peixe grelhado com brócolis."
+          },
+          "sabado": {
+            "cafe_da_manha": "Tigela de açaí com granola e frutas.",
+            "almoco": "Salada de grão-de-bico com atum.",
+            "jantar": "Frango assado com legumes."
+          },
+          "domingo": {
+            "cafe_da_manha": "Iogurte grego com granola e frutas.",
+            "almoco": "Wrap de peru com abacate.",
+            "jantar": "Tofu grelhado com legumes."
+          }
+        }
+      },
+      {
+        "objetivo": "Melhoria do Desempenho Esportivo",
+        "id": "Muito Abaixo do Peso (16-16.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Smoothie de frutas com proteína em pó.",
+            "almoco": "Frango grelhado com arroz integral e legumes.",
+            "jantar": "Salmão com batata-doce e espinafre."
+          },
+          "terca": {
+            "cafe_da_manha": "Omelete de ovos inteiros com abacate.",
+            "almoco": "Wrap de frango com vegetais e hummus.",
+            "jantar": "Tofu grelhado com quinoa e brócolis."
+          },
+          "quarta": {
+            "cafe_da_manha": "Aveia com frutas, nozes e iogurte grego.",
+            "almoco": "Peito de frango com arroz integral e vegetais.",
+            "jantar": "Peixe grelhado com batata-doce e aspargos."
+          },
+          "quinta": {
+            "cafe_da_manha": "Smoothie de proteína com frutas e aveia.",
+            "almoco": "Salada de atum com grão-de-bico e vegetais.",
+            "jantar": "Frango assado com legumes e quinoa."
+          },
+          "sexta": {
+            "cafe_da_manha": "Ovos mexidos com espinafre e tomate.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Salmão com batata-doce e brócolis."
+          },
+          "sabado": {
+            "cafe_da_manha": "Smoothie de proteína com frutas vermelhas.",
+            "almoco": "Peito de frango com quinoa e vegetais.",
+            "jantar": "Tofu grelhado com aspargos."
+          },
+          "domingo": {
+            "cafe_da_manha": "Aveia com banana e manteiga de amendoim.",
+            "almoco": "Salada de atum com grão-de-bico e vegetais.",
+            "jantar": "Frango assado com legumes e quinoa."
+          }
+        }
+      },
+      {
+        "objetivo": "Melhoria do Desempenho Esportivo",
+        "id": "Abaixo do Peso (17-18.4)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Omelete de ovos inteiros com abacate.",
+            "almoco": "Wrap de frango com vegetais e hummus.",
+            "jantar": "Tofu grelhado com quinoa e brócolis."
+          },
+          "terca": {
+            "cafe_da_manha": "Smoothie de frutas com proteína em pó.",
+            "almoco": "Frango grelhado com arroz integral e legumes.",
+            "jantar": "Salmão com batata-doce e espinafre."
+          },
+          "quarta": {
+            "cafe_da_manha": "Aveia com frutas, nozes e iogurte grego.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Tofu grelhado com brócolis."
+          },
+          "quinta": {
+            "cafe_da_manha": "Smoothie de proteína com frutas e aveia.",
+            "almoco": "Salada de atum com grão-de-bico e vegetais.",
+            "jantar": "Frango assado com legumes e quinoa."
+          },
+          "sexta": {
+            "cafe_da_manha": "Ovos mexidos com espinafre e tomate.",
+            "almoco": "Wrap de frango com vegetais e hummus.",
+            "jantar": "Salmão com batata-doce e espinafre."
+          },
+          "sabado": {
+            "cafe_da_manha": "Smoothie de proteína com frutas vermelhas.",
+            "almoco": "Frango grelhado com arroz integral e legumes.",
+            "jantar": "Tofu grelhado com brócolis."
+          },
+          "domingo": {
+            "cafe_da_manha": "Aveia com banana e manteiga de amendoim.",
+            "almoco": "Salada de atum com grão-de-bico e vegetais.",
+            "jantar": "Frango assado com legumes e quinoa."
+          }
+        }
+      },
+      {
+        "objetivo": "Melhoria do Desempenho Esportivo",
+        "id": "Peso Normal (18.5-24.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Aveia com frutas, nozes e iogurte grego.",
+            "almoco": "Peito de frango com arroz integral e vegetais.",
+            "jantar": "Peixe grelhado com batata-doce e aspargos."
+          },
+          "terca": {
+            "cafe_da_manha": "Smoothie de frutas com proteína em pó.",
+            "almoco": "Wrap de frango com vegetais e hummus.",
+            "jantar": "Tofu grelhado com quinoa e brócolis."
+          },
+          "quarta": {
+            "cafe_da_manha": "Omelete de ovos inteiros com abacate.",
+            "almoco": "Peito de frango com arroz integral e vegetais.",
+            "jantar": "Salmão com batata-doce e espinafre."
+          },
+          "quinta": {
+            "cafe_da_manha": "Smoothie de proteína com frutas e aveia.",
+            "almoco": "Salada de atum com grão-de-bico e vegetais.",
+            "jantar": "Frango assado com legumes e quinoa."
+          },
+          "sexta": {
+            "cafe_da_manha": "Ovos mexidos com espinafre e tomate.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Tofu grelhado com brócolis."
+          },
+          "sabado": {
+            "cafe_da_manha": "Smoothie de proteína com frutas vermelhas.",
+            "almoco": "Peito de frango com arroz integral e vegetais.",
+            "jantar": "Salmão com batata-doce e espinafre."
+          },
+          "domingo": {
+            "cafe_da_manha": "Aveia com banana e manteiga de amendoim.",
+            "almoco": "Salada de atum com grão-de-bico e vegetais.",
+            "jantar": "Frango assado com legumes e quinoa."
+          }
+        }
+      },
+      {
+        "objetivo": "Melhoria do Desempenho Esportivo",
+        "id": "Acima do Peso (25-40.9)",
+        "refeicoes": {
+          "segunda": {
+            "cafe_da_manha": "Smoothie de proteína com frutas e aveia.",
+            "almoco": "Salada de atum com grão-de-bico e vegetais.",
+            "jantar": "Frango assado com legumes e quinoa."
+          },
+          "terca": {
+            "cafe_da_manha": "Omelete de ovos inteiros com abacate.",
+            "almoco": "Wrap de frango com vegetais e hummus.",
+            "jantar": "Tofu grelhado com quinoa e brócolis."
+          },
+          "quarta": {
+            "cafe_da_manha": "Aveia com frutas, nozes e iogurte grego.",
+            "almoco": "Salada de atum com grão-de-bico e vegetais.",
+            "jantar": "Salmão com batata-doce e espinafre."
+          },
+          "quinta": {
+            "cafe_da_manha": "Smoothie de proteína com frutas e aveia.",
+            "almoco": "Frango grelhado com arroz integral e legumes.",
+            "jantar": "Frango assado com legumes e quinoa."
+          },
+          "sexta": {
+            "cafe_da_manha": "Ovos mexidos com espinafre e tomate.",
+            "almoco": "Wrap de frango com abacate e salada.",
+            "jantar": "Tofu grelhado com brócolis."
+          },
+          "sabado": {
+            "cafe_da_manha": "Smoothie de proteína com frutas vermelhas.",
+            "almoco": "Frango grelhado com arroz integral e legumes.",
+            "jantar": "Salmão com batata-doce e espinafre."
+          },
+          "domingo": {
+            "cafe_da_manha": "Aveia com banana e manteiga de amendoim.",
+            "almoco": "Salada de atum com grão-de-bico e vegetais.",
+            "jantar": "Frango assado com legumes e quinoa."
+          }
+        }
+      }
+    ]
+  }
+  

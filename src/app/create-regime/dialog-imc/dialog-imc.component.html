@@ -1,0 +1,46 @@
+<div mat-dialog-content>
+  <mat-list-item *ngFor="let objetivo of data">
+    <h1 mat-dialog-title>Objetivo: {{ objetivo.objetivo }}</h1>
+  <p>IMC: {{ objetivo.id }}</p>
+  <p>Refeições:</p>
+</mat-list-item>
+  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8 mat-table-scrollable">
+        <ng-container matColumnDef="diaSemana">
+      <th mat-header-cell *matHeaderCellDef>Dia da Semana</th>
+      <td mat-cell *matCellDef="let refeicao" class="table-cell">
+        <div *ngFor="let dia of diasDaSemana" class="tamanho">{{ dia }}</div>
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="cafeDaManha">
+      <th mat-header-cell *matHeaderCellDef>Café da Manhã</th>
+      <td mat-cell *matCellDef="let refeicao" class="table-cell"> 
+        <div *ngFor="let dia of diasDaSemana" class="tamanho">
+          {{ refeicao.refeicoes[dia].cafe_da_manha }}
+        </div>
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="almoco">
+      <th mat-header-cell *matHeaderCellDef>Almoço</th>
+      <td mat-cell *matCellDef="let refeicao" class="table-cell">
+        <div *ngFor="let dia of diasDaSemana" class="tamanho">
+          {{ refeicao.refeicoes[dia].almoco }}
+        </div>
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="jantar">
+      <th mat-header-cell *matHeaderCellDef>Jantar</th>
+      <td mat-cell *matCellDef="let refeicao" class="table-cell">
+        <div *ngFor="let dia of diasDaSemana" class="tamanho">
+          {{ refeicao.refeicoes[dia].jantar }}
+        </div>
+      </td>
+    </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+
+</div>

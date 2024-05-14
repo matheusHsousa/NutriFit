@@ -1,0 +1,112 @@
+<mat-card class="width-card">
+  <mat-card-content>
+    <mat-stepper #stepper>
+      <mat-step [stepControl]="nameForm">
+        <form [formGroup]="nameForm">
+          <ng-template matStepLabel>Nome</ng-template>
+          <mat-form-field class="width-100">
+            <mat-label>Nome</mat-label>
+            <input
+              matInput
+              placeholder="Nome e sobrenome"
+              formControlName="name"
+              required
+            />
+          </mat-form-field>
+          <div>
+            <button mat-button matStepperNext [disabled]="!nameForm.valid" >
+              Proximo
+            </button>
+          </div>
+        </form>
+      </mat-step>
+      <mat-step [stepControl]="ageForm">
+        <form [formGroup]="ageForm">
+          <ng-template matStepLabel>Idade</ng-template>
+          <mat-form-field class="width-100"> 
+            <mat-label>Idade</mat-label>
+            <input
+              matInput
+              placeholder="Quantos anos"
+              formControlName="age"
+              required
+            />
+          </mat-form-field>
+          <div>
+            <button mat-button matStepperPrevious>Voltar</button>
+            <button mat-button matStepperNext [disabled]="!nameForm.valid">
+              Proximo
+            </button>
+          </div>
+        </form>
+      </mat-step>
+      <mat-step [stepControl]="pesoForm">
+        <form [formGroup]="pesoForm">
+          <ng-template matStepLabel>Peso</ng-template>
+          <mat-form-field class="width-100">
+            <mat-label>Peso</mat-label>
+            <input
+              matInput
+              placeholder="Ex: 10, 20 ou 30"
+              formControlName="peso"
+              required
+            />
+          </mat-form-field>
+          <div>
+            <button mat-button matStepperPrevious>Voltar</button>
+            <button mat-button matStepperNext [disabled]="!pesoForm.valid">
+              Proximo
+            </button>
+          </div>
+        </form>
+      </mat-step>
+      <mat-step [stepControl]="alturaForm">
+        <form [formGroup]="alturaForm">
+          <ng-template matStepLabel>Altura</ng-template>
+          <mat-form-field class="width-100">
+            <mat-label>Altura</mat-label>
+            <input
+              matInput
+              placeholder="Ex: 130, 140, 150"
+              formControlName="altura"
+              required
+            />
+          </mat-form-field>
+          <mat-step [stepControl]="objetivoForm">
+            <form [formGroup]="objetivoForm">
+              <ng-template matStepLabel>Objetivo</ng-template>
+              <mat-form-field class="width-100">
+                <mat-select formControlName="obj">
+                  <mat-option *ngFor="let iten of obj" [value]="iten"  >
+                    {{ iten }}
+                  </mat-option>
+                </mat-select>
+              </mat-form-field>
+              <div>
+                <button mat-button matStepperPrevious>Voltar</button>
+                <button mat-button matStepperNext>
+                  Proximo
+                </button>
+              </div>
+            </form>
+          </mat-step>
+          <div>
+            <button mat-button matStepperPrevious>Voltar</button>
+            <button mat-button matStepperNext [disabled]="!alturaForm.valid">
+              Proximo
+            </button>
+          </div>
+        </form>
+      </mat-step>
+      <mat-step>
+        <ng-template matStepLabel>Done</ng-template>
+        <p>O formulario acabou!</p>
+        <div>
+          <button mat-button matStepperPrevious>Voltar</button>
+          <button mat-button (click)="mostrarObjetivosSelecionados()">Veja sua dieta</button>
+          <button mat-button routerLink="">Menu inicial</button>
+        </div>
+      </mat-step>
+    </mat-stepper>
+  </mat-card-content>
+</mat-card>

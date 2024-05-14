@@ -1,0 +1,23 @@
+<div class="center-container">
+  <div
+    class="card-container"
+    *ngFor="let card of cards"
+    (click)="redirectToCreateRegime(card.rota)"
+  >
+    <mat-card class="example-card">
+      <mat-card-header>
+        <mat-card-title> </mat-card-title>
+      </mat-card-header>
+      <div class="image-container">
+        <img
+          class="circular-image width"
+          [src]="card.imageSrc"
+        />
+      </div>
+      <mat-card-content>
+        <h2>{{ card.title }}</h2>
+        <p>{{ card.description }}</p>
+      </mat-card-content>
+    </mat-card>
+  </div>
+</div>
